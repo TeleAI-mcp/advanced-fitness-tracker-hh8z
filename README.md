@@ -1,2 +1,3 @@
-# advanced-fitness-tracker-hh8z
+# Advanced Fitness Tracker Hh8Z
+
 A fitness and workout tracker for modern development workflows.
